@@ -71,7 +71,7 @@ Likes
 : Unlike a post.
 
 ## Folder Structure
-
+```
 .
 ├── controllers
 │   ├── authController.js
@@ -92,3 +92,5 @@ Likes
 │   ├── authMiddleware.js
 ├── index.js
 └── .env
+
+```
